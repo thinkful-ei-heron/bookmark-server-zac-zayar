@@ -55,7 +55,7 @@ class App extends Component {
   }
 
   onClickDelete = (id) => {
-    fetch(`http://localhost:8000/bookmarks/${id}`,
+    fetch(`${config.API_ENDPOINT}/${id}`,
       {
         method: 'DELETE',
         headers: { 'Authorization': `Bearer ${config.API_KEY}`}

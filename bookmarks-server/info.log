@@ -110,3 +110,19 @@
 {"message":"Bookmark with id ebb27bd7-5c2e-4fd7-aed1-e627363ff4f4 deleted.","level":"info"}
 {"message":"Bookmark with id f3cfcbec-ac03-4744-88fe-2bcd37117291 created","level":"info"}
 {"message":"Bookmark with id 5b9ba57f-8216-4373-85f0-f703c7cb178d deleted.","level":"info"}
+{"message":"Unauthorized request to /","level":"error"}
+{"message":"Unauthorized request to /","level":"error"}
+{"message":"Bookmark with id c0bfa9c1-cc71-4ee3-8a13-f508e8f2c8a6 deleted.","level":"info"}
+{"message":"Bookmark with id a1536c65-ca29-4f2b-af0b-7ecff7a54f8d created","level":"info"}
+{"message":"Bookmark with id a1536c65-ca29-4f2b-af0b-7ecff7a54f8d deleted.","level":"info"}
+{"message":"Bookmark with id f3cfcbec-ac03-4744-88fe-2bcd37117291 deleted.","level":"info"}
+{"message":"Unauthorized request to /test","level":"error"}
+{"message":"Bookmark with id 41c89935-1f3c-4c55-9844-48210d1ca776 created","level":"info"}
+{"message":"Bookmark with id 41c89935-1f3c-4c55-9844-48210d1ca776 deleted.","level":"info"}
+{"message":"Bookmark with id c61f8a9c-505d-4c30-8da7-1c885e401e08 created","level":"info"}
+{"message":"Bookmark with id 21b46abb-b06d-4e28-b43c-bb27db63fab6 created","level":"info"}
+{"message":"Bookmark with id c61f8a9c-505d-4c30-8da7-1c885e401e08 deleted.","level":"info"}
+{"message":"Bookmark with id 21b46abb-b06d-4e28-b43c-bb27db63fab6 deleted.","level":"info"}
+{"message":"Bookmark with id 3aeacbf3-bd91-4b31-85ed-c9f40a097b79 created","level":"info"}
+{"message":"Unauthorized request to /test","level":"error"}
+{"message":"Unauthorized request to /favicon.ico","level":"error"}

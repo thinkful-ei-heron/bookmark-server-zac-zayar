@@ -1,7 +1,6 @@
 import React from 'react';
 import Rating from '../Rating/Rating';
 import './BookmarkItem.css';
-import config from '../config';
 
 export default function BookmarkItem(props) {
   return (
@@ -30,14 +29,4 @@ export default function BookmarkItem(props) {
       </div>
     </li>
   )
-}
-
-BookmarkItem.defaultProps = {
-  onClickDelete: (id) => {
-    fetch(`http://localhost:8000/bookmarks/${id}`,
-      {
-        method: 'DELETE',
-        headers: { 'Authorization': `Bearer ${config.API_KEY}`}
-      })
-  },
 }
